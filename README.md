@@ -1,3 +1,3 @@
 # real\_estate\_dashboard
 
-file:///.file/id=6571367.71330458
+![image](http://github.com/real_estate_dashboard/master/real_estate_dashboard/dashboard_v1.png)
